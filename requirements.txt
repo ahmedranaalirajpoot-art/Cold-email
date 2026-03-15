@@ -1,3 +1,7 @@
 crewai[google-genai]
 crewai-tools
 python-dotenv
+streamlit
+crewai
+google-generativeai
+python-dotenv
