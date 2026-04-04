@@ -1,3 +1,2 @@
 crewai[google-genai]
-crewai-tools
 python-dotenv
